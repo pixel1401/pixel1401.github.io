@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.16292555.css",
-    "main.js": "/static/js/main.db7b1539.js",
+    "main.css": "/static/css/main.7a7157a6.css",
+    "main.js": "/static/js/main.faaacad3.js",
     "static/media/bg.jpg": "/static/media/bg.29b25be31315dad3ce4e.jpg",
+    "static/media/falcon.jpg": "/static/media/falcon.c1d0a8d1869b3fbdb9ab.jpg",
     "static/media/han-solo.mp4": "/static/media/han-solo.db435084c403f6b37d4d.mp4",
+    "static/media/dark-side.jpg": "/static/media/dark-side.e0f8cab78e4bdd7db45d.jpg",
+    "static/media/light-side.jpg": "/static/media/light-side.eebc52171cd4ac0278ca.jpg",
     "static/media/not-found.jpg": "/static/media/not-found.1062f5e41ef989b5973a.jpg",
     "static/media/lightsaber.svg": "/static/media/lightsaber.eb7d4cd665426117002814db79fceef4.svg",
     "static/media/space-station.svg": "/static/media/space-station.7a027c6ec10ba7b5d8c880df5f4e65ea.svg",
     "static/media/droid.svg": "/static/media/droid.de165dd887badb2bdbe9d97b8e527c6f.svg",
     "index.html": "/index.html",
-    "main.16292555.css.map": "/static/css/main.16292555.css.map",
-    "main.db7b1539.js.map": "/static/js/main.db7b1539.js.map"
+    "main.7a7157a6.css.map": "/static/css/main.7a7157a6.css.map",
+    "main.faaacad3.js.map": "/static/js/main.faaacad3.js.map"
   },
   "entrypoints": [
-    "static/css/main.16292555.css",
-    "static/js/main.db7b1539.js"
+    "static/css/main.7a7157a6.css",
+    "static/js/main.faaacad3.js"
   ]
 }
